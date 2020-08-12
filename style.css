@@ -5,6 +5,9 @@ body{
     font-family: 'Aldrich';font-size: 50px;
     color: #40e05b;
 }
+.cool{
+    margin-bottom: 50px;
+}
 .submit-area{
     margin-top: 50px;
     padding: 40px;
